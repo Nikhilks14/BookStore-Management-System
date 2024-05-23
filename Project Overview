@@ -1,0 +1,22 @@
+src/
+├── main/
+│   ├── java/
+│   │   └── com/
+│   │       └── example/
+│   │           ├── bookstore/
+│   │           │   ├── controller/
+│   │           │   ├── model/
+│   │           │   ├── repository/
+│   │           │   ├── service/
+│   │           │   └── BookstoreApplication.java
+│   └── resources/
+│       ├── application.properties
+│       └── schema.sql
+└── test/
+    └── java/
+        └── com/
+            └── example/
+                └── bookstore/
+                    ├── controller/
+                    ├── service/
+                    └── BookstoreApplicationTests.java
